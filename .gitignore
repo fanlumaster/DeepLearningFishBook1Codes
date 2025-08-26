@@ -1,2 +1,5 @@
 /my_env
 /env
+**/__pycache__
+**/*.gz
+dataset/*.pkl
